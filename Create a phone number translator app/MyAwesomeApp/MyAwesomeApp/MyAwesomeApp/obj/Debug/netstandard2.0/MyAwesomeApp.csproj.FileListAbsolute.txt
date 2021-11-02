@@ -1,0 +1,29 @@
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.deps.json
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\ref\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.pdb
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\ref\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.pdb
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.deps.json
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\ref\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.pdb
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.AssemblyReference.cache
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\ref\MyAwesomeApp.dll
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.pdb
+C:\Users\Tomek\Desktop\Aplikacje mobilne\Create a phone number translator app\MyAwesomeApp\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

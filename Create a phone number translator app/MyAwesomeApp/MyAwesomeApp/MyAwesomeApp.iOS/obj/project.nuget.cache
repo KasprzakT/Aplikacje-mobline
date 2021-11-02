@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eTF+ZSZlXeqk+lCseBmcQf5vrr5xQHdDiGT7cFnMOgnPVmaovXmUr5OwvAc3Qne+7WQ/XzFgVi3UYl8vO0YtyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomek\\Desktop\\Aplikacje mobilne\\Create a phone number translator app\\MyAwesomeApp\\MyAwesomeApp\\MyAwesomeApp.iOS\\MyAwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
